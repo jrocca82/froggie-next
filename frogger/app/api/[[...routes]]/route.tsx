@@ -1,7 +1,7 @@
 /** @jsxImportSource frog/jsx */
 
 import { Button, Frog } from "frog";
-import { handle } from "frog/vercel";
+import { handle } from "frog/next";
 
 const app = new Frog({
 	assetsPath: "/",
