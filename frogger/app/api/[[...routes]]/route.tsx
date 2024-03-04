@@ -7,7 +7,7 @@ const app = new Frog({
 	assetsPath: "/",
 	basePath: "/api",
 	// Supply a Hub API URL to enable frame verification.
-	// hubApiUrl: 'https://api.hub.wevm.dev',
+	hubApiUrl: 'https://api.hub.wevm.dev',
 });
 
 // Uncomment to use Edge Runtime
